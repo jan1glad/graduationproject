@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4ad99afc477fb250a0d66d1f316d43d9" label="Onboarding Case" max_length="40" name="u_onboarding_case" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Assigned HR" max_length="32" name="u_assigned_hr" reference="sys_user" type="reference"/>
+        <element label="Employee Last Name" max_length="40" name="u_employee_last_name" type="string"/>
+        <element choice="3" label="State" max_length="40" name="u_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed Completed" sequence="2" value="closed_completed"/>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="Work in Progress" sequence="1" value="work_in_progress"/>
+            </choice>
+        </element>
+        <element label="Employee" max_length="32" name="u_employee" reference="sys_user" type="reference"/>
+        <element label="Employee Personal Email" max_length="40" name="u_employee_personal_email" type="string"/>
+        <element label="Manager" max_length="32" name="u_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element label="Employee First Name" max_length="40" name="u_employee_first_name" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="u_assigned_hr"/>
+        </index>
+        <index name="index3">
+            <element name="u_employee"/>
+        </index>
+        <index name="index4">
+            <element name="u_manager"/>
+        </index>
+    </element>
+</database>

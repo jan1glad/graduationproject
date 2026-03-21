@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_assigned_hr" label="Assigned HR" language="en" table="u_onboarding_case">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_assigned_hr</element>
+            <help/>
+            <hint/>
+            <label>Assigned HR</label>
+            <language>en</language>
+            <name>u_onboarding_case</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-20 23:39:55</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Assigned HR</sys_name>
+            <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+            <sys_update_name>sys_documentation_u_onboarding_case_u_assigned_hr_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-20 23:39:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
