@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="DELETE">
+        <active>true</active>
+        <base_dashboard/>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid>48</grid>
+        <name>Dashboard for parking / cars</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 22:32:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>95308e80470c0f90a0d66d1f316d4332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard for parking / cars</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>par_dashboard_95308e80470c0f90a0d66d1f316d4332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 22:32:26</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</application>
+        <file_path/>
+        <instance_id>d974e4c62b7792183ce2fcd2ce91bf51</instance_id>
+        <instance_name>dev296889</instance_name>
+        <name>par_dashboard_95308e80470c0f90a0d66d1f316d4332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><base_dashboard/><certified>false</certified><description/><experience/><grid>48</grid><name>Dashboard for parking / cars</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-30 22:32:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>95308e80470c0f90a0d66d1f316d4332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dashboard for parking / cars</sys_name><sys_overrides/><sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package><sys_policy/><sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope><sys_update_name>par_dashboard_95308e80470c0f90a0d66d1f316d4332</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-30 22:32:26</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+        <payload_hash>-546903624</payload_hash>
+        <record_name>Dashboard for parking / cars</record_name>
+        <reverted_from/>
+        <source>eeff4e34473f7250a0d66d1f316d4313</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 22:32:26</sys_created_on>
+        <sys_id>d5308244470c0f90a0d66d1f316d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d40e07be20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 22:32:26</sys_updated_on>
+        <type>PAR Dashboard</type>
+        <update_guid>95308244d30c0f90fee761bee066eae4</update_guid>
+        <update_guid_history>95308244d30c0f90fee761bee066eae4:-546903624</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dashboard for parking / cars">84184ec4474c0f90a0d66d1f316d43fa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 23:06:46</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard">par_dashboard</sys_db_object>
+        <sys_id>ba6caa932a9c4e4e9a4b5a52437ae039</sys_id>
+        <sys_metadata>95308e80470c0f90a0d66d1f316d4332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard for parking / cars</sys_name>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_scope_delete display_value="">072538c0d9754ba68206ece29c4d3839</sys_scope_delete>
+        <sys_update_name>par_dashboard_95308e80470c0f90a0d66d1f316d4332</sys_update_name>
+        <sys_update_version display_value="par_dashboard_95308e80470c0f90a0d66d1f316d4332">d5308244470c0f90a0d66d1f316d43e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 23:06:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

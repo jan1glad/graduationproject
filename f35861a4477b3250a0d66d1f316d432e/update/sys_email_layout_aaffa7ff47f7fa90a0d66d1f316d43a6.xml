@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_layout">
+    <sys_email_layout action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <advanced_layout/>
+        <description/>
+        <layout><![CDATA[<p><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400&amp;display=swap" em-class="em-font-Mulish-Regular"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@0,600&amp;display=swap" em-class="em-font-NotoSans-SemiBold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@0,400&amp;display=swap" em-class="em-font-NotoSans-Regular"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,500&amp;display=swap" em-class="em-font-OpenSans-Medium"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,400&amp;display=swap" em-class="em-font-OpenSans-Regular"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,500&amp;display=swap" em-class="em-font-OpenSans-Medium"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,600&amp;display=swap" em-class="em-font-OpenSans-SemiBold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,600&amp;display=swap" em-class="em-font-Arimo-SemiBold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,700&amp;display=swap" em-class="em-font-Mulish-Bold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,500&amp;display=swap" em-class="em-font-Mulish-Medium"></p>
+<p></p>
+<p><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet"></p>
+<style type="text/css">
+		html {
+			-webkit-text-size-adjust: none;
+			-ms-text-size-adjust: none;
+		}
+		@media only screen and (max-device-width: 660px), only screen and (max-width: 660px) {
+			.table800 {
+				width: 100% !important;
+			}
+			.mob_100 {
+				width: 100% !important;
+				max-width: 100% !important;
+			}
+		}
+		.table800 {
+			width: 800px;
+		}
+		@media screen {
+			.Roboto400 {
+				font-family: 'Roboto', Arial, sans-serif !important;
+				font-weight: 400 !important;
+			}
+			.Roboto500 {
+				font-family: 'Roboto', Arial, sans-serif !important;
+				font-weight: 500 !important;
+			}
+			.Roboto700 {
+				font-family: 'Roboto', Arial, sans-serif !important;
+				font-weight: 700 !important;
+			}
+		}
+	</style>
+<style em="styles">
+.em-font-Mulish-Medium {
+    font-family: Mulish,sans-serif!important;
+    font-weight: 500!important;
+}
+.em-font-OpenSans-SemiBold {
+    font-weight: 600!important;
+}
+.em-font-OpenSans-Medium,.em-font-OpenSans-Regular,.em-font-OpenSans-SemiBold {
+    font-family: "Open Sans",sans-serif!important;
+}
+.em-font-NotoSans-SemiBold {
+    font-family: "Noto Sans",sans-serif!important;
+    font-weight: 600!important;
+}
+.em-font-Mulish-Regular {
+    font-weight: 400!important;
+    font-family: Mulish,sans-serif!important;
+}
+.em-font-NotoSans-Regular {
+    font-family: "Noto Sans",sans-serif!important;
+    font-weight: 400!important;
+}
+@media only screen and (max-device-width:660px),only screen and (max-width:660px) {
+    .em-mob-width-100perc {
+        width: 100%!important;
+        max-width: 100%!important;
+    }
+    .em-mob-width-91perc {
+        width: 91%!important;
+        max-width: 91%!important;
+    }
+}
+</style>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background: #FFFFFF; min-width: 360px; font-size: 1px; line-height: normal;">
+<tbody>
+<tr em="group">
+<td align="center" valign="top"><span style="font-family: verdana, geneva;"><!-- [if (gte mso 9)|(IE)]>
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tr><td align="center" valign="top" width="800"><![endif]--></span>
+<table cellpadding="0" cellspacing="0" border="1" width="800" class="table800" style="width: 100%; max-width: 800px; min-width: 360px; background-position: 0% 0%; background-repeat: repeat; background-attachment: scroll; background-image: none; background-size: auto; background-origin: padding-box; background-clip: border-box; height: 481.5px; border-collapse: collapse; border-width: 0px; border-spacing: 0px; border-style: none;">
+<tbody>
+<tr em="block" style="height: 82px;">
+<td align="center" valign="top" style="background: rgb(60, 60, 65); height: 82px; border-width: 0px;" bgcolor="#3C3C41">
+<table cellpadding="0" cellspacing="0" border="1" width="75%" style="width: 100%; min-width: 330px; height: 19px; border-collapse: collapse; border-width: 0px; border-spacing: 0px; border-style: none; background-color: rgb(0, 0, 0); margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 19px;">
+<td align="center" style="padding: 15px 0px; height: 19px; width: 100%; border-width: 0px;"><span style="font-family: verdana, geneva;"><img src="/sys_attachment.do?sys_id=1f94f37347bbfa90a0d66d1f316d433e" width="180" alt="Logo" title="image.png" style="display: block; width: 272px; max-width: 100%; height: 84px; padding-top: 5px; margin: 0px auto 0px auto;"></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" class="em-structure" style="height: 58px;">
+<td align="center" style="height: 58px; border-width: 0px;">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 800px; height: 58px;">
+<tbody>
+<tr style="height: 58px;">
+<td align="center" valign="top" bgcolor="#66EFB7" style="background-color: rgb(102, 239, 183); height: 58px;">
+<div style="display: inline-block; width: 100%; max-width: 660px; vertical-align: top;" class="em-mob-width-100perc">
+<table width="602" cellspacing="0" cellpadding="0" style="width: 91%; max-width: 602px; height: 58px;" class="em-mob-width-91perc">
+<tbody>
+<tr style="height: 58px;">
+<td align="left" style="height: 58px;">
+<table cellpadding="0" cellspacing="0" width="100%" em="atom" style="height: 58px; border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 58px;">
+<td style="padding-right: 0px; padding-left: 0px; height: 58px; border-width: 0px;">
+<div style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 34px;" class="em-font-OpenSans-SemiBold" align="center"><span style="font-family: verdana, geneva;">Information Technology | Marketing | Human Department | Finance</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" style="height: 57px;">
+<td align="center" valign="top" style="background: rgb(244, 244, 244); height: 57px; border-width: 0px;">
+<table cellpadding="0" cellspacing="0" border="1" width="75%" style="width: 74.9426%; min-width: 330px; height: 55px; border-collapse: collapse; border-width: 0px; border-spacing: 0px; border-style: none;">
+<tbody>
+<tr style="height: 55px;">
+<td align="left" style="height: 55px; border-width: 0px; width: 100%;">
+<div class="Roboto400 em-font-NotoSans-Regular" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;" align="left"><span style="font-family: verdana, geneva;">${notification:body}</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" style="height: 169px;">
+<td align="center" valign="top" style="background: rgb(244, 244, 244); height: 169px; border-width: 0px;">
+<table cellpadding="0" cellspacing="0" border="0" width="75%" style="width: 75%; min-width: 330px; height: 170px;">
+<tbody>
+<tr style="height: 170px;">
+<td align="left" style="height: 170px;">
+<div class="Roboto400 em-font-NotoSans-Regular" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;" align="left"><span style="font-family: verdana, geneva;">Best regards,</span><br><br><span style="font-family: verdana, geneva;">ControlZ Team</span><br><br><span style="font-style: italic; font-family: verdana, geneva;">Note: This is automated mail, please do not reply to it.</span></div>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" class="em-structure" style="height: 110.5px;">
+<td align="center" style="height: 110.5px; border-width: 0px;"><span style="font-family: verdana, geneva;"><!-- [if (gte mso 9)|(IE)]>
+		<table cellpadding="0" cellspacing="0" border="0" width="800"><tr><td>
+		<![endif]--></span>
+<table align="center" width="796" border="0" cellspacing="0" cellpadding="0" style="max-width: 800px; height: 107.5px; width: 99.8745%;">
+<tbody>
+<tr style="height: 107.5px;">
+<td align="center" valign="top" bgcolor="#3c3c41" style="background-color: rgb(60, 60, 65); height: 107.5px; width: 100%;"><span style="font-family: verdana, geneva;"><!-- [if (gte mso 9)|(IE)]>
+					<table border="0" cellspacing="0" cellpadding="0">
+					<tr><td width="660" valign="top" align="center"><![endif]--></span>
+<div style="display: inline-block; width: 100%; max-width: 660px; vertical-align: top;" class="em-mob-width-100perc">
+<table width="602" border="0" cellspacing="0" cellpadding="0" class="em-mob-width-91perc" height="36" style="width: 96.3636%; max-width: 602px; height: 106.5px;">
+<tbody>
+<tr style="height: 106.5px;">
+<td align="left" style="width: 100%; height: 106.5px;">
+<table cellpadding="0" cellspacing="0" width="100%" em="atom" style="width: 100%; border-collapse: collapse; border-spacing: 0px; height: 48.5px; border-width: 0px;" border="1">
+<tbody>
+<tr style="height: 48.5px;">
+<td style="padding: 10px 0px 5px; width: 100%; height: 48.5px; border-width: 0px;"><span style="font-family: verdana, geneva;"><!-- updated padding: top 10px, bottom 20px --></span>
+<div style="font-family: Helvetica, Arial, sans-serif; text-align: center; font-size: 16px; line-height: 24px; color: #a9a9a9;" class="em-font-Mulish-Regular"><span style="font-family: verdana, geneva;">&copy; 2026 ControlZ (Jan Gładykowski) Holding. All rights reserved. ControlZ values and respects your privacy. Read more about our&nbsp;<a data-olk-copy-source="MessageBody" data-linkindex="1" title="x" href="x" data-auth="NotApplicable" style="text-align: center; font-size: 16px; line-height: 24px; color: rgb(5, 222, 237);">Privacy notice</a>.&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>]]></layout>
+        <name>ControlZ Main Layout</name>
+        <sys_class_name>sys_email_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 12:25:06</sys_created_on>
+        <sys_id>aaffa7ff47f7fa90a0d66d1f316d43a6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ControlZ Main Layout</sys_name>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>sys_email_layout_aaffa7ff47f7fa90a0d66d1f316d43a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 14:34:56</sys_updated_on>
+    </sys_email_layout>
+</record_update>

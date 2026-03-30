@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="Dashboard for parking / cars">96288284474c0f90a0d66d1f316d4381</dashboard>
+        <name>New Tab 4</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 23:07:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12288208474c0f90a0d66d1f316d4335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>par_dashboard_tab_12288208474c0f90a0d66d1f316d4335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 23:07:11</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

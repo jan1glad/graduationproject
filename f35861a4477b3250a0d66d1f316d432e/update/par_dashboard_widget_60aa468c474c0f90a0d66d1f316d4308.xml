@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">d2288208474c0f90a0d66d1f316d4339</canvas>
+        <component display_value="Pivot Table">06f6aacbd1818110f877d87436272684</component>
+        <component_props>{"freezeHeader":true,"freezeFooter":false,"showPivotExpanded":true,"freezeFirstColumn":true,"showAlternateRowColors":true,"showAlternateColumnColors":false,"showRowDividers":false,"truncateFirstColumn":true,"wrapColumnHeader":false,"truncateColumnHeader":true,"showColumnDividers":true,"showRowAggregate":true,"showColumnAggregate":true,"showSubAggregate":false,"enableDrilldown":true,"showZero":false,"userInfo":"@context.session.user","colorConfig":{"type":"default"},"newReporting":true,"enableAddZerosAtApi":true,"additionalGroupByConfig":null,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Parking Vehicle","sourceType":"table","tableOrViewName":"u_parking_vehicle","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV1X3BhcmtpbmdfdmVoaWNsZTE3NzQ5MTIyNDIwNjQ=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":true,"showFirstGroupAggregate":true,"showSecondGroupAggregate":false,"hideMatrixAggregate":true,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headerTitle":"Distribution beetwen Departments","headingLevel":2,"showBorder":true,"bareBorder":false,"dataCategory":"group","telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGV1X3BhcmtpbmdfdmVoaWNsZTE3NzQ5MTIyNDIwNjQ=","id":"ZEdGaWJHVjFYM0JoY210cGJtZGZkbVZvYVdOc1pURTNOelE1TVRJeU5ESXdOalE9MTc3NDkxMjI0MzQ2Ng==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV1X3BhcmtpbmdfdmVoaWNsZTE3NzQ5MTIyNDIwNjQ=","groupByField":"u_employee_owner.department","isRange":false,"isChoice":false,"isPaBucket":false}],"categoryIndex":1,"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":true}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"e1wo904l","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":"previous","useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"sharedContext":{"colorDetails":{"842431cdd7500200b96d45a3ce610331":[{"sysId":"842431cdd7500200b96d45a3ce610331","defaultColor":"0,0,0","cssCustomProperty":""}]},"datasourceConfigurations":{"table":{"timeZone":"SESSION","useSeriesLabels":false}}},"colors":{}}</component_props>
+        <h>16</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 23:17:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>60aa468c474c0f90a0d66d1f316d4308</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>par_dashboard_widget_60aa468c474c0f90a0d66d1f316d4308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 23:34:09</sys_updated_on>
+        <visualization/>
+        <w>14</w>
+        <widget_props/>
+        <x>34</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

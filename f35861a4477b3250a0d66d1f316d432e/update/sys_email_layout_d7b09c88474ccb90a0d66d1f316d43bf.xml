@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_layout">
+    <sys_email_layout action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <advanced_layout/>
+        <description/>
+        <layout><![CDATA[<p><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400&amp;display=swap" em-class="em-font-Mulish-Regular"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@0,600&amp;display=swap" em-class="em-font-NotoSans-SemiBold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@0,400&amp;display=swap" em-class="em-font-NotoSans-Regular"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,500&amp;display=swap" em-class="em-font-OpenSans-Medium"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,400&amp;display=swap" em-class="em-font-OpenSans-Regular"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,500&amp;display=swap" em-class="em-font-OpenSans-Medium"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,600&amp;display=swap" em-class="em-font-OpenSans-SemiBold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,600&amp;display=swap" em-class="em-font-Arimo-SemiBold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,700&amp;display=swap" em-class="em-font-Mulish-Bold"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,500&amp;display=swap" em-class="em-font-Mulish-Medium"></p>
+<p></p>
+<p><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet"></p>
+<style type="text/css">
+		html {
+			-webkit-text-size-adjust: none;
+			-ms-text-size-adjust: none;
+		}
+		@media only screen and (max-device-width: 660px), only screen and (max-width: 660px) {
+			.table800 {
+				width: 100% !important;
+			}
+			.mob_100 {
+				width: 100% !important;
+				max-width: 100% !important;
+			}
+		}
+		.table800 {
+			width: 800px;
+		}
+		@media screen {
+			.Roboto400 {
+				font-family: 'Roboto', Arial, sans-serif !important;
+				font-weight: 400 !important;
+			}
+			.Roboto500 {
+				font-family: 'Roboto', Arial, sans-serif !important;
+				font-weight: 500 !important;
+			}
+			.Roboto700 {
+				font-family: 'Roboto', Arial, sans-serif !important;
+				font-weight: 700 !important;
+			}
+		}
+	</style>
+<style em="styles">
+.em-font-Mulish-Medium {
+    font-family: Mulish,sans-serif!important;
+    font-weight: 500!important;
+}
+.em-font-OpenSans-SemiBold {
+    font-weight: 600!important;
+}
+.em-font-OpenSans-Medium,.em-font-OpenSans-Regular,.em-font-OpenSans-SemiBold {
+    font-family: "Open Sans",sans-serif!important;
+}
+.em-font-NotoSans-SemiBold {
+    font-family: "Noto Sans",sans-serif!important;
+    font-weight: 600!important;
+}
+.em-font-Mulish-Regular {
+    font-weight: 400!important;
+    font-family: Mulish,sans-serif!important;
+}
+.em-font-NotoSans-Regular {
+    font-family: "Noto Sans",sans-serif!important;
+    font-weight: 400!important;
+}
+@media only screen and (max-device-width:660px),only screen and (max-width:660px) {
+    .em-mob-width-100perc {
+        width: 100%!important;
+        max-width: 100%!important;
+    }
+    .em-mob-width-91perc {
+        width: 91%!important;
+        max-width: 91%!important;
+    }
+}
+</style>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background: #FFFFFF; min-width: 360px; font-size: 1px; line-height: normal;">
+<tbody>
+<tr em="group">
+<td align="center" valign="top"><span style="font-family: verdana, geneva;"><!-- [if (gte mso 9)|(IE)]>
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tr><td align="center" valign="top" width="800"><![endif]--></span>
+<table cellpadding="0" cellspacing="0" width="800" class="table800" style="width: 74.7709%; max-width: 800px; min-width: 360px; background-position: 0% 0%; background-repeat: repeat; background-attachment: scroll; background-image: none; background-size: auto; background-origin: padding-box; background-clip: border-box; height: 836.016px; border-collapse: collapse; border-width: 0px; border-spacing: 0px; border-style: none;">
+<tbody>
+<tr em="block" style="height: 82px;">
+<td align="center" valign="top" style="background: rgb(60, 60, 65); height: 82px; border-width: 0px; width: 100%;" bgcolor="#3C3C41">
+<table cellpadding="0" cellspacing="0" width="75%" style="width: 99.2378%; min-width: 330px; height: 50px; border-collapse: collapse; border-width: 0px; border-spacing: 0px; border-style: none; background-color: rgb(0, 0, 0); margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr style="height: 50px;">
+<td align="center" style="padding: 15px 0px; height: 50px; width: 100%; border-width: 0px;"><span style="font-family: verdana, geneva;"><img src="/sys_attachment.do?sys_id=b091d04c474ccb90a0d66d1f316d4395" width="252" height="78" alt="" data-library="false"></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" class="em-structure" style="height: 58px;">
+<td align="center" style="height: 58px; border-width: 0px; width: 100%;">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="max-width: 800px; height: 58px; border-collapse: collapse; width: 100%; border-width: 0px; border-spacing: 0px; border-style: none;">
+<tbody>
+<tr style="height: 58px;">
+<td align="center" valign="top" bgcolor="#66EFB7" style="background-color: rgb(102, 239, 183); height: 58px;">
+<div style="display: inline-block; width: 100%; max-width: 660px; vertical-align: top;" class="em-mob-width-100perc">
+<table width="602" cellspacing="0" cellpadding="0" style="width: 91%; max-width: 602px; height: 58px;" class="em-mob-width-91perc">
+<tbody>
+<tr style="height: 58px;">
+<td align="left" style="height: 58px;">
+<table cellpadding="0" cellspacing="0" width="100%" em="atom" style="height: 58px; border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 58px;">
+<td style="padding-right: 0px; padding-left: 0px; height: 58px; border-width: 0px;">
+<div style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 34px;" class="em-font-OpenSans-SemiBold" align="center"><span style="font-family: verdana, geneva;">Information Technology | Marketing | Human Department | Finance</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" style="height: 90.6667px;">
+<td align="center" valign="top" style="background: rgb(244, 244, 244); height: 90.6667px; width: 100%;">
+<table cellpadding="0" cellspacing="0" width="75%" style="width: 75%; min-width: 330px;">
+<tbody>
+<tr>
+<td align="left">
+<div style="height: 30px; line-height: 30px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div class="Roboto400 em-font-NotoSans-Regular" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;" align="left"><span style="font-family: verdana, geneva;">${notification:body}</span></div>
+<div style="font-family: Arial, sans-serif; color: #000000; font-size: 15px; line-height: 28px; font-weight: bold;" class="Roboto700"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div style="height: 10px; line-height: 10px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" style="height: 262.533px;">
+<td align="center" valign="top" style="background: rgb(244, 244, 244); height: 262.533px; width: 100%;">
+<table cellpadding="0" cellspacing="0" width="75%" style="width: 75%; min-width: 330px; background: #ffffff; box-shadow: 0px 0px 0px; border-radius: 10px; border: 1px solid #eaeaea;">
+<tbody>
+<tr>
+<td align="center">
+<table cellpadding="0" cellspacing="0" width="93%" style="width: 93%; min-width: 300px; border: 0px solid rgb(244, 244, 244); height: 62px; border-collapse: collapse; border-spacing: 0px;">
+<tbody>
+<tr style="height: 62px;">
+<td align="left" style="height: 62px; border-width: 0px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div class="Roboto400 em-font-NotoSans-Regular" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;"><span style="color: rgb(0, 0, 0); font-family: verdana, geneva;">Assigned to:</span></div>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+<td width="10" style="width: 10px; height: 62px; border-width: 0px;"><span style="font-family: verdana, geneva;">&nbsp;</span></td>
+<td align="left" width="50%" style="width: 50%; max-width: 50%; min-width: 190px; height: 62px; border-width: 0px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div class="Roboto400" style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;"><span style="font-family: verdana, geneva;">${assigned_to}</span></div>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" width="93%" style="width: 93%; min-width: 300px; border: 0px solid rgb(244, 244, 244); height: 61px; border-collapse: collapse; border-spacing: 0px;">
+<tbody>
+<tr style="height: 61px;">
+<td align="left" style="height: 61px; border-width: 0px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div class="Roboto400" style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;"><span style="color: rgb(0, 0, 0); font-family: verdana, geneva;">Name:</span></div>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+<td width="10" style="width: 10px; height: 61px; border-width: 0px;"><span style="font-family: verdana, geneva;">&nbsp;</span></td>
+<td align="left" width="50%" style="width: 50%; max-width: 50%; min-width: 190px; height: 61px; border-width: 0px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div class="Roboto400" style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;"><span style="font-family: verdana, geneva;">${name}</span></div>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" width="93%" style="width: 93%; min-width: 300px; border: 0px solid rgb(244, 244, 244); height: 59px; border-collapse: collapse; border-spacing: 0px;">
+<tbody>
+<tr style="height: 59px;">
+<td align="left" style="height: 59px; border-width: 0px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div class="Roboto400 em-font-NotoSans-SemiBold" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 21px; color: #ff0000;"><span style="color: rgb(255, 0, 0); font-weight: bold; font-family: verdana, geneva;">Due Date:</span></div>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+<td width="10" style="width: 10px; height: 59px; border-width: 0px;"><span style="font-family: verdana, geneva;">&nbsp;</span></td>
+<td align="left" width="50%" style="width: 50%; max-width: 50%; min-width: 190px; height: 59px; border-width: 0px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<span style="font-family: verdana, geneva;"><a href="tel:+14843559888" target="_blank" class="Roboto400" style="line-height: 21px; text-decoration: none; white-space: nowrap; color: rgb(255, 0, 0); font-size: 15px;" rel="noopener"><span style="font-weight: bold; color: #ff0000;"><span style="font-size: 14px;">${due_date}</span></span></a></span>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" width="93%" style="width: 93%; min-width: 300px; height: 65.15px;">
+<tbody>
+<tr style="height: 65.15px;">
+<td align="left" style="height: 65.15px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<div class="Roboto400 em-font-NotoSans-Regular" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;"><span style="color: rgb(0, 0, 0); font-family: verdana, geneva;">Task:</span></div>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+<td width="10" style="width: 10px; height: 65.15px;"><span style="font-family: verdana, geneva;">&nbsp;</span></td>
+<td align="left" width="50%" style="width: 50%; max-width: 50%; min-width: 190px; height: 65.15px;">
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+<p></p>
+<p><span style="font-family: verdana, geneva;"><a href="mailto:mail@gmail.com" target="_blank" class="Roboto400" style="color: rgb(0, 0, 0); font-size: 14px; line-height: 21px; text-decoration: none;" rel="noopener">${number}</a></span></p>
+<div style="height: 20px; line-height: 20px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="background: #F4F4F4; height: 10px; line-height: 10px; font-size: 8px;"><span style="font-family: verdana, geneva;">&nbsp;</span></div>
+</td>
+</tr>
+<tr em="block" class="em-structure" style="height: 81.0667px;">
+<td align="center" style="height: 81.0667px; width: 100%;">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="background: rgb(244, 244, 244); max-width: 800px; border-collapse: collapse; width: 100%; border-width: 0px; border-spacing: 0px; border-style: none; height: 81.0667px;">
+<tbody>
+<tr style="height: 81.0667px;">
+<td align="center" valign="top" style="height: 81.0667px;">
+<table cellpadding="0" cellspacing="0" width="100%" style="background: #F4F4F4; height: 10px;">
+<tbody></tbody>
+</table>
+<div style="background: #F4F4F4; display: inline-block; width: 100%; max-width: 660px; vertical-align: top;" class="em-mob-width-100perc">
+<table width="660" cellspacing="0" cellpadding="0" style="width: 29.697%; max-width: 602px; border-collapse: collapse; border-spacing: 0px; background-color: rgb(102, 239, 183); border: 0px solid rgb(0, 0, 0); height: 54.3906px;" class="em-mob-width-91perc" border="1">
+<tbody>
+<tr style="height: 54.3906px;">
+<td align="left" style="height: 54.3906px; width: 100%; border-color: rgb(0, 0, 0);">
+<p style="text-align: center;"><span style="font-family: verdana, geneva;"><strong><span style="font-size: 14pt; background-color: rgb(163, 176, 168); color: rgb(0, 0, 0);"></span></strong><span style="color: rgb(255, 255, 255);"><strong><span style="display: inline-block; background-color: rgb(102, 239, 183); color: rgb(0, 0, 238); font-size: 21px; font-weight: bold; padding: 10px 20px; text-decoration: none; border-radius: 5px;"> ${URI} </span> </strong></span><strong><span style="font-size: 14pt; color: rgb(255, 255, 255);"> </span><span style="font-size: 14pt; background-color: rgb(163, 176, 168); color: rgb(0, 0, 0);"><br></span></strong></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table cellpadding="0" cellspacing="0" width="100%" style="background: #F4F4F4; height: 10px;">
+<tbody></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" style="height: 144.667px;">
+<td align="center" valign="top" style="background: rgb(244, 244, 244); height: 144.667px; width: 100%;">
+<table cellpadding="0" cellspacing="0" width="75%" style="width: 75%; min-width: 330px; height: 122px;">
+<tbody>
+<tr style="height: 122px;">
+<td align="left" style="height: 122px;">
+<div class="Roboto400 em-font-NotoSans-Regular" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;" align="left"><br><span style="font-family: verdana, geneva;">Best regards,</span></div>
+<div class="Roboto400 em-font-NotoSans-Regular" style="font-family: Helvetica, Arial, sans-serif; color: #000000; font-size: 14px; line-height: 21px;" align="left"><br><span style="font-family: verdana, geneva;">ControlZ Team</span><br><br><span style="font-style: italic; font-family: verdana, geneva;">Note: This is automated mail, please do not reply to it.</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr em="block" class="em-structure" style="height: 112.083px;">
+<td align="center" style="height: 112.083px; width: 100%;">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="max-width: 800px; height: 109.417px;">
+<tbody>
+<tr style="height: 109.417px;">
+<td align="center" valign="top" bgcolor="#3c3c41" style="background-color: rgb(60, 60, 65); height: 109.417px;">
+<table cellpadding="0" cellspacing="0" width="100%" style="height: 10px;">
+<tbody>
+<tr style="height: 10px;">
+<td height="30" style="height: 10px;"></td>
+</tr>
+</tbody>
+</table>
+<table width="602" cellspacing="0" cellpadding="0" class="em-mob-width-91perc" height="36" style="width: 96.3636%; max-width: 602px;">
+<tbody>
+<tr>
+<td align="left" style="width: 100%;">
+<table cellpadding="0" cellspacing="0" width="100%" em="atom" style="width: 100%; height: 65.4167px;">
+<tbody>
+<tr style="height: 65.4167px;">
+<td style="padding: 10px 0px 20px; width: 100%; height: 65.4167px;"><span style="font-family: verdana, geneva;"><!-- updated padding: top 10px, bottom 20px --></span>
+<div style="font-family: Helvetica, Arial, sans-serif; text-align: center; font-size: 16px; line-height: 24px; color: #a9a9a9;" class="em-font-Mulish-Regular"><span style="font-family: verdana, geneva;">&copy; 2026 ControlZ (Jan Gładykowski) Holding. All rights reserved. ControlZ values and respects your privacy. Read more about our <a data-olk-copy-source="MessageBody" data-linkindex="1" title="x" href="x" data-auth="NotApplicable" style="text-align: center; font-size: 16px; line-height: 24px; color: rgb(5, 222, 237);">Privacy notice</a>.&nbsp;&nbsp;</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>]]></layout>
+        <name>ControlZ TABLE Main Layout</name>
+        <sys_class_name>sys_email_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 14:25:25</sys_created_on>
+        <sys_id>d7b09c88474ccb90a0d66d1f316d43bf</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ControlZ TABLE Main Layout</sys_name>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>sys_email_layout_d7b09c88474ccb90a0d66d1f316d43bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 14:34:32</sys_updated_on>
+    </sys_email_layout>
+</record_update>

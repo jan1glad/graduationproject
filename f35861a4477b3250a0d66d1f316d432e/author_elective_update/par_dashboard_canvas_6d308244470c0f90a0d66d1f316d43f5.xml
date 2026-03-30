@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="Dashboard for parking / cars">95308e80470c0f90a0d66d1f316d4332</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 22:32:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d308244470c0f90a0d66d1f316d43f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>par_dashboard_canvas_6d308244470c0f90a0d66d1f316d43f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 22:32:26</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</application>
+        <file_path/>
+        <instance_id>d974e4c62b7792183ce2fcd2ce91bf51</instance_id>
+        <instance_name>dev296889</instance_name>
+        <name>par_dashboard_canvas_6d308244470c0f90a0d66d1f316d43f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="Dashboard for parking / cars">95308e80470c0f90a0d66d1f316d4332</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-30 22:32:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6d308244470c0f90a0d66d1f316d43f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package><sys_policy/><sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope><sys_update_name>par_dashboard_canvas_6d308244470c0f90a0d66d1f316d43f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-30 22:32:26</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>1867384396</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>eeff4e34473f7250a0d66d1f316d4313</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 22:32:26</sys_created_on>
+        <sys_id>a1308244470c0f90a0d66d1f316d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d40e07c710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 22:32:26</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>61308244440c0f90b6712a6b852be3f9</update_guid>
+        <update_guid_history>61308244440c0f90b6712a6b852be3f9:1867384396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">48188ec4474c0f90a0d66d1f316d4304</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 23:06:46</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>3f329632eaf14c6ab96857e3b1d0d984</sys_id>
+        <sys_metadata>6d308244470c0f90a0d66d1f316d43f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_scope_delete display_value="">072538c0d9754ba68206ece29c4d3839</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_6d308244470c0f90a0d66d1f316d43f5</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_6d308244470c0f90a0d66d1f316d43f5">a1308244470c0f90a0d66d1f316d43fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 23:06:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

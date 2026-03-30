@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">d2288208474c0f90a0d66d1f316d4339</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1jl0h8b8njlglsa6u828","filterName":"Filter by Gender","filterComponentType":"singleselect","datasource":{"type":"table","payload":{"field":"u_employee_owner.gender","table":"u_parking_vehicle","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"u_employee_owner.gender","table":"u_parking_vehicle","primaryKey":"sys_id"}}],"defaultSelectedItems":[],"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"12288208474c0f90a0d66d1f316d4335","isDashboard":true,"isGroup":false,"value":[]}</component_props>
+        <h>4</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-30 23:33:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee1e0a84478c0f90a0d66d1f316d43ee</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>par_dashboard_widget_ee1e0a84478c0f90a0d66d1f316d43ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-30 23:35:32</sys_updated_on>
+        <visualization/>
+        <w>7</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

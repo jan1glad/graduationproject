@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b187bc2547f33a50a0d66d1f316d43a9" label="Parking Vehicle" max_length="40" name="u_parking_vehicle" type="collection">
+        <element label="Vehicle Type" max_length="40" name="u_vehicle_type" type="string"/>
         <element label="License Plate" max_length="40" name="u_license_plate" type="string"/>
         <element label="RITM ticket" max_length="32" name="u_ritm_ticket" reference="sc_req_item" type="reference"/>
+        <element label="Fuel Type" max_length="40" name="u_fuel_type" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Year" max_length="40" name="u_year" type="string"/>
         <element label="Brand" max_length="40" name="u_brand" type="string"/>
         <element label="Acitve" max_length="40" name="u_acitve" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element label="Brand Country" max_length="40" name="u_brand_country" type="string"/>
+        <element label="Ownership" max_length="40" name="u_ownership" type="string"/>
         <element label="Model" max_length="40" name="u_model" type="string"/>
         <element label="Employee Owner" max_length="32" name="u_employee_owner" reference="sys_user" type="reference"/>
         <element label="Color" max_length="40" name="u_color" type="string"/>
