@@ -7,9 +7,10 @@
 };]]></client_script>
         <controller_as>c</controller_as>
         <css>h1 {
-  font-size: 10px;
+  font-size: 30px;
   color: white;
   font-weight: bold;
+  padding-top: 10px
 }</css>
         <data_table>sp_instance</data_table>
         <demo_data/>
@@ -77,14 +78,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-24 15:04:55</sys_created_on>
         <sys_id>5730658a473b3e50a0d66d1f316d43ce</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Hello User</sys_name>
         <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
         <sys_update_name>sp_widget_5730658a473b3e50a0d66d1f316d43ce</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-27 13:11:06</sys_updated_on>
+        <sys_updated_on>2026-03-27 15:47:03</sys_updated_on>
         <template><![CDATA[<h1 class="text-center font-thin hidden-xs text-4x m-b-lg sp-tagline-color">Have a great day {{data.name}}!</h1>
 
 ]]></template>

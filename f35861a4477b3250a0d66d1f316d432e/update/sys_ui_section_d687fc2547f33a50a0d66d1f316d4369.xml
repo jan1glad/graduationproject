@@ -1,16 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="d687fc2547f33a50a0d66d1f316d4369" sys_domain="global" table="u_parking_vehicle" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_number</element>
+            <element>u_employee_owner</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-22 22:50:07</sys_created_on>
-            <sys_id>5287fc2547f33a50a0d66d1f316d4371</sys_id>
+            <sys_created_on>2026-03-28 19:17:41</sys_created_on>
+            <sys_id>8970071b47b3f690a0d66d1f316d436d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_parking_vehicle" sys_domain="global" view="Default view">d687fc2547f33a50a0d66d1f316d4369</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-22 22:50:07</sys_updated_on>
+            <sys_updated_on>2026-03-28 19:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_license_plate</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-28 19:17:41</sys_created_on>
+            <sys_id>c170071b47b3f690a0d66d1f316d436f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_parking_vehicle" sys_domain="global" view="Default view">d687fc2547f33a50a0d66d1f316d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-28 19:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_color</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-28 19:17:41</sys_created_on>
+            <sys_id>4170071b47b3f690a0d66d1f316d4370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_parking_vehicle" sys_domain="global" view="Default view">d687fc2547f33a50a0d66d1f316d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-28 19:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_brand</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-28 19:17:41</sys_created_on>
+            <sys_id>cd70071b47b3f690a0d66d1f316d4370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_parking_vehicle" sys_domain="global" view="Default view">d687fc2547f33a50a0d66d1f316d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-28 19:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_model</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-28 19:17:41</sys_created_on>
+            <sys_id>4d70071b47b3f690a0d66d1f316d4371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_parking_vehicle" sys_domain="global" view="Default view">d687fc2547f33a50a0d66d1f316d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-28 19:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-28 19:17:41</sys_created_on>
+            <sys_id>c970071b47b3f690a0d66d1f316d4372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_parking_vehicle" sys_domain="global" view="Default view">d687fc2547f33a50a0d66d1f316d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-28 19:17:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ritm_ticket</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-28 19:17:41</sys_created_on>
+            <sys_id>4970071b47b3f690a0d66d1f316d4373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_parking_vehicle" sys_domain="global" view="Default view">d687fc2547f33a50a0d66d1f316d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-28 19:17:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

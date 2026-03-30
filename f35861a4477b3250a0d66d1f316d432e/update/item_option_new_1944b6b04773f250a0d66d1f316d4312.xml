@@ -27,7 +27,7 @@
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <hidden>false</hidden>
+        <hidden>true</hidden>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -82,14 +82,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-21 00:00:50</sys_created_on>
         <sys_id>1944b6b04773f250a0d66d1f316d4312</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>State</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
         <sys_update_name>item_option_new_1944b6b04773f250a0d66d1f316d4312</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-21 00:13:23</sys_updated_on>
+        <sys_updated_on>2026-03-28 19:38:29</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>

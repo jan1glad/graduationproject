@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="4ad99afc477fb250a0d66d1f316d43d9" label="Onboarding Case" max_length="40" name="u_onboarding_case" type="collection">
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+    <element audit="true" db_object_id="4ad99afc477fb250a0d66d1f316d43d9" label="Onboarding Case" max_length="40" name="u_onboarding_case" type="collection">
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Assigned HR" max_length="32" name="u_assigned_hr" reference="sys_user" type="reference"/>
         <element label="Employee Last Name" max_length="40" name="u_employee_last_name" type="string"/>
         <element choice="3" label="State" max_length="40" name="u_state" type="choice">

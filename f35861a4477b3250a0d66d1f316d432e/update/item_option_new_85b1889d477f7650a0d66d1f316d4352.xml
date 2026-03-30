@@ -45,15 +45,15 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>true</mask_use_encryption>
-        <name>opened_by</name>
+        <name>Opened_by</name>
         <not_available_conversation>false</not_available_conversation>
         <order>100</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>opened_by</question_text>
-        <read_only>false</read_only>
+        <question_text>Opened by</question_text>
+        <read_only>true</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
@@ -83,14 +83,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-22 00:18:57</sys_created_on>
         <sys_id>85b1889d477f7650a0d66d1f316d4352</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>opened_by</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Opened by</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
         <sys_update_name>item_option_new_85b1889d477f7650a0d66d1f316d4352</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-22 00:33:36</sys_updated_on>
+        <sys_updated_on>2026-03-28 19:46:19</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>

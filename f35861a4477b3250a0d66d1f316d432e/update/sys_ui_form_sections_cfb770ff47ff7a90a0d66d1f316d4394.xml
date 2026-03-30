@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cfb770ff47ff7a90a0d66d1f316d4394" sys_domain="global" table="u_onboarding_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-29 22:37:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43b770ff47ff7a90a0d66d1f316d439b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_onboarding_task" name="u_onboarding_task" sys_domain="global" view="Default view">cfb770ff47ff7a90a0d66d1f316d4394</sys_ui_form>
+            <sys_ui_section caption="Onboarding Task" display_value="Onboarding Task" name="u_onboarding_task" sys_domain="global" view="Default view">0bb770ff47ff7a90a0d66d1f316d4386</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-29 22:37:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>u_onboarding_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-29 22:37:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfb770ff47ff7a90a0d66d1f316d4394</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_onboarding_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cfb770ff47ff7a90a0d66d1f316d4394</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-29 22:37:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

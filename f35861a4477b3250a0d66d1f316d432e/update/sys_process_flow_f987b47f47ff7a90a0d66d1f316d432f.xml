@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="u_onboarding_task">state=3^EQ<item display_value="Closed Complete" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Close Complete</label>
+        <name>Close Complete</name>
+        <order>0</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-29 22:36:24</sys_created_on>
+        <sys_id>f987b47f47ff7a90a0d66d1f316d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Close Complete</sys_name>
+        <sys_package display_value="Employee Onboarding App" source="f35861a4477b3250a0d66d1f316d432e">f35861a4477b3250a0d66d1f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding App">f35861a4477b3250a0d66d1f316d432e</sys_scope>
+        <sys_update_name>sys_process_flow_f987b47f47ff7a90a0d66d1f316d432f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-29 22:36:24</sys_updated_on>
+        <table>u_onboarding_task</table>
+    </sys_process_flow>
+</record_update>

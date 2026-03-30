@@ -10,5 +10,6 @@
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
         <element label="Onboarding Case" max_length="32" name="u_onboarding_case" reference="u_onboarding_case" type="reference"/>
+        <element label="Jira Status" max_length="40" name="u_jira_status" read_only="true" type="string"/>
     </element>
 </database>
